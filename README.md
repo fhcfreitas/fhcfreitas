@@ -1,5 +1,5 @@
 ### Hi there, I'm Fábio Freitas 👋
-<h3 align="center">An enthusiastic full-stack web developer with a passion for embracing new technologies</h3>
+<h3>An enthusiastic full-stack web developer with a passion for embracing new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhcfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="fhcfreitas" /> </p>
 
