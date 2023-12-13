@@ -1,47 +1,33 @@
 ### Hi there, I'm Fábio Freitas 👋
 <p>An enthusiastic full-stack web developer with a passion for embracing new technologies</p>
 
+<h4>About Me</h4>
+<p>Former Customer Service Coordinator with a passion for technology. I've aspired to transition into web development, combining my expertise in management, problem-solving, and improvement planning with my love for coding. After graduating in Marketing, I've chosen to focus my career on delving into full-stack web development to build efficient and user-friendly applications while continuously expanding my knowledge.</p>
+
+- 🔭 I’m currently working on personal project of a restaurant booking app
+- 🌱 I’m currently learning ReactJS and Tailwind CSS
+- ✨ Check out my <a href="https://troopl.com/fhcfreitas">portfolio</a>
+- 📫 Contact: fhcfreitas@gmail.com
 
 <hr width="36%" >
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 
 <hr width="36%" >
-📫 E-mail: fhcfreitas@gmail.com
-
-<!--
-**fhcfreitas/fhcfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="fhcfreitas" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" alt="fhcfreitas" /></p>
-
-<br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="fhcfreitas" /></p>
-<br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fhcfreitas&theme=dark" alt="fhcfreitas" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<hr width="36%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
