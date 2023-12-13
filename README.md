@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" alt="fhcfreitas" /></p>
 
 <br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="fhcfreitas" /></p>
 <br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fhcfreitas&theme=dark" alt="fhcfreitas" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
