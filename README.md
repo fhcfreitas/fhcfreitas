@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
