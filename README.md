@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br>
 
