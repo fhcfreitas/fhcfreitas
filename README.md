@@ -5,7 +5,7 @@
 <p>Former Customer Service Coordinator with a passion for technology. I've aspired to transition into web development, combining my expertise in management, problem-solving, and improvement planning with my love for coding. After graduating in Marketing, I've chosen to focus my career on delving into full-stack web development to build efficient and user-friendly applications while continuously expanding my knowledge.</p>
 
 - 🔭 I’m currently working on personal project of a restaurant booking app
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Kotlin
 - ✨ Check out my <a href="https://troopl.com/fhcfreitas">portfolio</a>
 - 📫 Contact: fhcfreitas@gmail.com
 
