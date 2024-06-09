@@ -19,11 +19,8 @@
 <hr width="36%" >
 
 
-<h3>My GitHub Stats</h3>
-
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhcfreitas&show_icons=true&theme=dark&locale=en&layout=compact" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fhcfreitas&show_icons=true&theme=dark&locale=en" alt="fhcfreitas" />
 </p>
 
 <hr width="36%" >
