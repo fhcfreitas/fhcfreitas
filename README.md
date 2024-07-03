@@ -4,7 +4,7 @@
 <h4>About Me</h4>
 <p>Former Customer Service Coordinator with a passion for technology. I've aspired to transition into web development, combining my expertise in management, problem-solving, and improvement planning with my love for coding. After graduating in Marketing, I've chosen to focus my career on delving into full-stack web development to build efficient and user-friendly applications while continuously expanding my knowledge.</p>
 
-- 🌱 I’m currently working as a Full Stack Ruby on Rails Developer
+- 🌱 I’m currently working as Full Stack Ruby on Rails Developer
 - ✨ Check out my <a href="https://troopl.com/fhcfreitas">portfolio</a>
 - 📫 Contact: fhcfreitas@gmail.com
 
