@@ -2,7 +2,7 @@
 <p>An enthusiastic full-stack web developer with a passion for embracing new technologies</p>
 
 <h4>About Me</h4>
-<p>Former Customer Service Coordinator with a passion for technology. I've aspired to transition into web development, combining my expertise in management, problem-solving, and improvement planning with my love for coding. After graduating in Marketing, I've chosen to focus my career on delving into full-stack web development to build efficient and user-friendly applications while continuously expanding my knowledge.</p>
+<p>Fullstack Developer with 2 years of experience developing web applications using Ruby on Rails, JavaScript, Bootstrap, Tailwind CSS, and Docker. I bring 7 years of previous experience in coordinating B2B/B2C customer service teams and managing projects, which provides me with a strategic vision for process optimization and user experience improvement.</p>
 
 - ✨ Check out my <a href="https://troopl.com/fhcfreitas">portfolio</a>
 - 📫 Contact: fhcfreitas@gmail.com
